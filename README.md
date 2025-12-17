@@ -3,7 +3,7 @@
 This repository contains educational and sanitized notes based on
 legal Capture The Flag (CTF) challenges hosted on HackerOne / Hacker101.
 
-⚠️ IMPORTANT DISCLAIMER
+ IMPORTANT DISCLAIMER
 - No real targets, URLs, instance links or flags are included.
 - No live exploit steps are shared.
 - All content is for educational purposes only.
@@ -17,3 +17,8 @@ legal Capture The Flag (CTF) challenges hosted on HackerOne / Hacker101.
 ## Goal
 To document my learning process while preparing for
 web security competitions and defensive security programs.
+
+## Disclaimer
+These notes are intended to demonstrate understanding of web security concepts,
+not to provide step-by-step exploitation guides.
+
